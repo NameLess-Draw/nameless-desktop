@@ -4,7 +4,7 @@ Simple application for drawing
 
 ## Run
 
-### Ubuntu
+### Linux
 
 python3 **main.py**
 
